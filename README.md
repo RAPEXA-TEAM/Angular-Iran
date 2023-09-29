@@ -19,7 +19,7 @@ If you'd like to contribute to this project and help us bring quality programmin
 
 ## API DOCUMENT
 
-- For EndPoints Document follow [Documents/EndPoints.md](https://github.com/RAPEXA-TEAM/NFT_GAME/blob/main/Documents/EndPoints.md)
+- For EndPoints Document follow [Documents/EndPoints.md](https://github.com/RAPEXA-TEAM/Angular-Iran/blob/main/Documents/EndPoints.md)
 
 ## 💡 How to run
 
