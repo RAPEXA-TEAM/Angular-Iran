@@ -1,6 +1,5 @@
 # Angular-Iran
 
-![GitHub repo size in bytes](https://img.shields.io/github/repo-size/RAPEXA-TEAM/Angular-Iran?color=red&label=repository%20size)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/RAPEXA-TEAM/Angular-Iran?color=red)
 ![GitHub language count](https://img.shields.io/github/languages/count/RAPEXA-TEAM/Angular-Iran)
 ![GitHub top language](https://img.shields.io/github/languages/top/RAPEXA-TEAM/Angular-Iran)
