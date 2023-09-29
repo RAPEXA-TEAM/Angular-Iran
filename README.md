@@ -29,9 +29,9 @@ Go to the [Releases](https://github.com/RAPEXA-TEAM/Angular-Iran/releases) to do
 
 ## 🛠 Built with
 
-- Flutter
-- Dart
-- Android Studio
+- Python
+- Django
+- Pycharm
 - Architecture
   - Getx (Controller Pattern)
   - Repository Pattern
