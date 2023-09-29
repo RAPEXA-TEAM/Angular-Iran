@@ -25,7 +25,13 @@ If you'd like to contribute to this project and help us bring quality programmin
 
 1. Install python3, pip3, virtualenv, MySQL in your system.
 
-2. `git clone https://github.com/RAPEXA-TEAM/Angular-Iran.git && cd Angular-Iran`  
+2. Clone project with following command `git clone https://github.com/RAPEXA-TEAM/Angular-Iran.git && cd Angular-Iran`  
+
+3. Make virtual environment with command  `python -m virtualenv .venv`
+
+4. Activate virtual environment with command `source ./.venv/bin/activate`
+
+5. Install requirements with command `pip install -r requirements.txt`
 
 ## 🎬 Release Status
 
