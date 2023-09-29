@@ -7,6 +7,7 @@
 ![GitHub](https://img.shields.io/github/license/RAPEXA-TEAM/Angular-Iran?color=yellow)
 
 ## ℹ️ About
+
 This repository contains the backend code for a programming educational website. The aim of the website is to offer a platform where users can learn programming languages and concepts through a range of interactive exercises and quizzes.
 
 The backend is built using Python and the Django framework. It includes a RESTful API that serves data to the frontend of the website. The API is used to handle user authentication and session management, as well as to store and retrieve user progress on various exercises and quizzes.
@@ -47,23 +48,22 @@ Go to the [Releases](https://github.com/RAPEXA-TEAM/Angular-Iran/releases) to do
   - Repository Pattern
 
 ### TODO
+
 - Start project
   - Start Django Project
-
 
 ## 👑 Contributing
 
 If you want to contribute to this project and make it better, your help is very welcome. </br>
-Developer (Telegram) : https://t.me/rapexa </br>
-Developer (Youtube ) : https://www.youtube.com/channel/RAPEXA_ORG
-
+Developer (Telegram) : <https://t.me/rapexa> </br>
+Developer (Youtube ) : <https://www.youtube.com/channel/RAPEXA_ORG>
 
 ## ❤️ Thanks
 
 Thanks to everyone who supported
 
+## License
 
-# License
 ```xml
 MIT License
 
@@ -86,4 +86,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-``` 
+```
