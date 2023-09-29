@@ -17,6 +17,10 @@ The backend is designed to be scalable and maintainable, with well-organized cod
 
 If you'd like to contribute to this project and help us bring quality programming education to more people, feel free to fork the repository and submit pull requests.
 
+## API DOCUMENT
+
+- For EndPoints Document follow [Documents/EndPoints.md](https://github.com/RAPEXA-TEAM/NFT_GAME/blob/main/Documents/EndPoints.md)
+
 ## 💡 How to run
 
 1. Install python3, pip3, virtualenv, MySQL in your system.
